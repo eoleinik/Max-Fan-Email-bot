@@ -1,0 +1,737 @@
+[
+    {
+        "event": "FORMULA 1 AUSTRALIA",
+        "schedule": {
+            "Free practice 1": {
+                "date": "2016-03-18",
+                "time_from": "01:30+01:00",
+                "time_to": "03:00+01:00"
+            },
+            "Free practice 2": {
+                "date": "2016-03-18",
+                "time_from": "05:30+01:00",
+                "time_to": "07:00+01:00"
+            },
+            "Free practice 3": {
+                "date": "2016-03-19",
+                "time_from": "03:00+01:00",
+                "time_to": "04:00+01:00"
+            },
+            "Qualifying": {
+                "date": "2016-03-19",
+                "time_from": "06:00+01:00",
+                "time_to": "06:00+01:00"
+            },
+            "Race": {
+                "date": "2016-03-20",
+                "time_from": "05:00+01:00",
+                "time_to": "07:00+01:00"
+            }
+        },
+        "track": {
+            "description": "The Melbourne Grand Prix Circuit is a 3.5 mile long street circuit that hosts the Australian Grand Prix since 1996. It is located in the city’s Albert Park with the track using everyday sections of the roads circling the Albert Park lake.",
+            "history": "For almost two decades, Albert Park traditionally hosts the opening Grand Prix of the Formula 1 World Championship. (Non) Championship Grand Prix racing can be traced back to the early ‘50s with Stirling Moss among the winners. However, it was not until Jeff Kennett became premier of the State of Victoria in 1992, that efforts were made to move the Australian Grand Prix from Adelaide to Melbourne. Kennet negotiated a deal with F1 supremo Bernie Ecclestone and an agreement was reached in 1993. Nevertheless,  the first event did not happen until the contract with Adelaide expired in 1996. Rebuilding Albert Park caused opposition and protests but the first race was a success.",
+            "quote": "The biggest challenge that Albert Park offers is the first corner. It’s very bumpy and it’s easy to lock up the front wheels. I like that the track is partially a street course with not a lot of run-off."
+        }
+    },
+    {
+        "event": "FORMULA 1 BAHRAIN",
+        "schedule": {
+            "Free practice 1": {
+                "date": "2016-04-01",
+                "time_from": "12:00+01:00",
+                "time_to": "13:30+01:00"
+            },
+            "Free practice 2": {
+                "date": "2016-04-01",
+                "time_from": "16:00+01:00",
+                "time_to": "17:30+01:00"
+            },
+            "Free practice 3": {
+                "date": "2016-04-02",
+                "time_from": "13:00+01:00",
+                "time_to": "14:00+01:00"
+            },
+            "Qualifying": {
+                "date": "2016-04-02",
+                "time_from": "16:00+01:00",
+                "time_to": "17:00+01:00"
+            },
+            "Race": {
+                "date": "2016-04-03",
+                "time_from": "16:00+01:00",
+                "time_to": "18:00+01:00"
+            }
+        },
+        "track": {
+            "description": "The Bahrein International Circuit is 3.6 mile race track that hosts the Bahrein Grand Prix since 2004. Because of its location in the desert, the course is notorious for low-grip conditions.",
+            "history": "The track, designed by Hermann Tilke (who also designed Grand Prix tracks in Sepang, Shanghai, Singapore, Istanbul, Valencia and Abu Dhabi) was build in 2003. The inaugural Formula 1 race took place a year later with Micheal Schumacher taking the chequered flag.",
+            "quote": "The Bahrain circuit is quite a challenge, but I think it is a fun track. Because of the wind and the sand, every lap feels differently, that makes it tricky. The kerbs also are something else: you either don't go there or take them full on. Driving at night under lights is without doubt special."
+        }
+    },
+    {
+        "event": "FORMULA 1 CHINA",
+        "schedule": {
+            "Free practice 1": {
+                "date": "2016-04-15",
+                "time_from": "03:00+01:00",
+                "time_to": "04:30+01:00"
+            },
+            "Free practice 2": {
+                "date": "2016-04-15",
+                "time_from": "07:00+01:00",
+                "time_to": "08:30+01:00"
+            },
+            "Free practice 3": {
+                "date": "2016-04-16",
+                "time_from": "05:00+01:00",
+                "time_to": "06:00+01:00"
+            },
+            "Qualifying": {
+                "date": "2016-04-16",
+                "time_from": "08:00+01:00",
+                "time_to": "09:00+01:00"
+            },
+            "Race": {
+                "date": "2016-04-17",
+                "time_from": "07:00+01:00",
+                "time_to": "09:00+01:00"
+            }
+        },
+        "track": {
+            "description": "The Shanghai International Circuit is a 3.4mile long race track in the Jiading-district of Shanghai. The 16-turn track is designed by Hermann Tilke and features a trademark of the German architect; a long straight followed by a tight hairpin. Currently, the back straight of the Shanghai track is the longest on the Formula 1 calendar.",
+            "history": "The circuit opened in 2004 and hosted the first Chinese Formula 1 Grand Prix in the same year. Michael Schumacher won the race and the German still holds the lap record set in his Ferrari 1:32.238).Apart from F1, the venue also hosted MotoGP, A1 Grand prix and V8 Supercar championship rounds.",
+            "quote": "This facility is very impressive and massive and I like the track layout, which is very technical. That makes it an interesting circuit. The first corner is fun if you get it right."
+        }
+    },
+    {
+        "event": "FORMULA 1 RUSSIA",
+        "schedule": {
+            "Free practice 1": {
+                "date": "2016-04-29",
+                "time_from": "08:00+01:00",
+                "time_to": "09:30+01:00"
+            },
+            "Free practice 2": {
+                "date": "2016-04-29",
+                "time_from": "12:00+01:00",
+                "time_to": "13:30+01:00"
+            },
+            "Free practice 3": {
+                "date": "2016-04-30",
+                "time_from": "10:00+01:00",
+                "time_to": "11:00+01:00"
+            },
+            "Qualifying": {
+                "date": "2016-04-30",
+                "time_from": "13:00+01:00",
+                "time_to": "14:00+01:00"
+            },
+            "Race": {
+                "date": "2016-05-01",
+                "time_from": "13:00+01:00",
+                "time_to": "15:00+01:00"
+            }
+        },
+        "track": {
+            "description": "The Sochi Autodrom, previously the Sochi International Street Circuit and the Sochi Olympic Park Circuit, is a circuit in the Russian seaside resort Sotsji. The track is a semi-street circuit and is since 2014 host to the Russian Grand Prix for the Formula 1. The circuit has a length of 3.63 miles.",
+            "history": "The circuit was designed by Hermann Tilke and is situated around the Olympic Park Sotsji, where, during the Winter games of 2014, among other sports, skating and curling took place. Approximately 1.7 kilometers of the circuit is driven on regular roads. The first race, driven on the track, was during the Russian Touring Car Championship on 14 September 2014, a week before the official opening. The first Formula 1-race was driven on 12 October 2014.",
+            "quote": "Sochi is an interesting track: a circuit with room to overtake. Hopefully we don’t need to but if it’s necessary, there are opportunities."
+        }
+    },
+    {
+        "event": "FORMULA 1 SPAIN",
+        "schedule": {
+            "Free practice 1": {
+                "date": "2016-05-13",
+                "time_from": "09:00+01:00",
+                "time_to": "10:30+01:00"
+            },
+            "Free practice 2": {
+                "date": "2016-05-13",
+                "time_from": "13:00+01:00",
+                "time_to": "14:30+01:00"
+            },
+            "Free practice 3": {
+                "date": "2016-05-14",
+                "time_from": "10:00+01:00",
+                "time_to": "11:00+01:00"
+            },
+            "Qualifying": {
+                "date": "2016-05-14",
+                "time_from": "13:00+01:00",
+                "time_to": "14:00+01:00"
+            },
+            "Race": {
+                "date": "2016-05-15",
+                "time_from": "13:00+01:00",
+                "time_to": "15:00+01:00"
+            }
+        },
+        "track": {
+            "description": "The Circuit de Barcelona-Catalunya, is a 2.8 mile race track in Montmeló, near Barcelona, Spain. The venue is best known for hosting the Spanish Grand Prix since 1991 and remains F1's most used (winter) testing facility.",
+            "history": "Although the layout lacks overtaking possibilities, the Circuit de Catalunya provided the décor for several memorable races, not least the inaugural Grand Prix. in which Nigel Mansell took a hard fought victory after fending off Ayrton Senna. In 1994, Micheal Schumacher claimed second place after driving over half the race in fifth gear. Local hero Fernando Alonso proved a crowd pleaser when he took the victory in 2006 Grand Prix, becoming the first Spanish F1 driver to win his home race.",
+            "quote": "Barcelona is a fast track that has a nice rhythm to it. Fast corners are my favourite and turn 3 and 9 are definitely the most challenging. In those sections, you’re right on the limit without much margin for error."
+        }
+    },
+    {
+        "event": "FORMULA 1 MONACO",
+        "schedule": {
+            "Free practice 1": {
+                "date": "2016-05-26",
+                "time_from": "09:00+01:00",
+                "time_to": "10:30+01:00"
+            },
+            "Free practice 2": {
+                "date": "2016-05-26",
+                "time_from": "13:00+01:00",
+                "time_to": "14:30+01:00"
+            },
+            "Free practice 3": {
+                "date": "2016-05-28",
+                "time_from": "10:00+01:00",
+                "time_to": "11:00+01:00"
+            },
+            "Qualifying": {
+                "date": "2016-05-28",
+                "time_from": "13:00+01:00",
+                "time_to": "14:00+01:00"
+            },
+            "Race": {
+                "date": "2016-05-29",
+                "time_from": "13:00+01:00",
+                "time_to": "15:00+01:00"
+            }
+        },
+        "track": {
+            "description": "Circuit de Monaco is a street circuit, situated in the streets of Monaco and La Condamine, around the harbour of the Principality of Monaco. It is commonly referred to Monte Carlo, because the majority of the race is driven in the district Monte Carlo. The track has a length of 2.07 miles.",
+            "history": "One weekend in May, the circuit is used for the Formula 1 Grand Prix of Monaco. A lot of feeder classes for the Formula 1 are also driven here, like the GP2 and Porsche Supercup. The track of Monaco is the most famous of all the Formula 1 Grand Prix-circuits. According to the most stringent requirements, it is actually not suitable anymore as a Formula 1-circuit, because there is no space for run off area’s and other safety measures that are present at other Formula 1-circuits. Overtaking is only possible in a few places. All of this, however, makes this Grand Prix special. Monaco is one of the Grand Prix that has been, since the beginning of the World Championship Formula 1, on the race calendar. Even now, it is considered one of the most popular races to win, like other legendary circuits as Monza (Italy) and Spa-Francorchamps (Belgium).",
+            "quote": "Monaco is a difficult and challenging circuit and I like those characteristics. It's vital to hit the apex and to exit the corners without much wheel spin. That's where you'll find most lap time. Street circuits suit me. There is not a lot of grip and the cars are slipping and sliding. I love it! It means you're right on the limit with the car, close to the edge. It's all about the feel you have as a driver, I really enjoy that."
+        }
+    },
+    {
+        "event": "FORMULA 1 CANADA",
+        "schedule": {
+            "Free practice 1": {
+                "date": "2016-06-10",
+                "time_from": "15:00+01:00",
+                "time_to": "16:30+01:00"
+            },
+            "Free practice 2": {
+                "date": "2016-06-10",
+                "time_from": "19:00+01:00",
+                "time_to": "20:30+01:00"
+            },
+            "Free practice 3": {
+                "date": "2016-06-11",
+                "time_from": "15:00+01:00",
+                "time_to": "16:00+01:00"
+            },
+            "Qualifying": {
+                "date": "2016-06-11",
+                "time_from": "18:00+01:00",
+                "time_to": "19:00+01:00"
+            },
+            "Race": {
+                "date": "2016-06-12",
+                "time_from": "19:00+01:00",
+                "time_to": "21:00+01:00"
+            }
+        },
+        "track": {
+            "description": "The Circuit Gilles Villeneuve is a 2.7 mile long street circuit near the city of Montreal in Canada. The venue hosts the Canadian Grand Prix and has organised several high profile motor racing events such as NASCAR, Champcar and sportscars.",
+            "history": "The circuit is located on the artificially created Ile de Notre Dame, an island in the middle of the St. Lawrence River. The facilities were built in 1967 for World Fair in the same year, before acting as a venue for the 1976 Olympic Games. Two years later, local hero Gilles Villeneuve won the inaugural Grand Prix by taking his maiden win in Formula 1. With the exception of 1987 and 2009, the Circuit Gilles Villeneuve (named in honour after the driver who tragically lost is life in a qualifying crash at Zolder in 1982) has hosted the Canadian round of the Formula 1 world championship.",
+            "quote": "It’s nice to race at Montreal, because it’s half a street circuit and I really like that. The long straights with high speeds and heavy braking for the tight hairpins are nice. It has a tricky chicane which you exit very close to the wall. There is not much room for errors, so it’s quite a challenging track."
+        }
+    },
+    {
+        "event": "FORMULA 1 EUROPE",
+        "schedule": {
+            "Free practice 1": {
+                "date": "2016-06-17",
+                "time_from": "09:00+01:00",
+                "time_to": "10:30+01:00"
+            },
+            "Free practice 2": {
+                "date": "2016-06-17",
+                "time_from": "13:00+01:00",
+                "time_to": "14:30+01:00"
+            },
+            "Free practice 3": {
+                "date": "2016-06-18",
+                "time_from": "10:00+01:00",
+                "time_to": "11:00+01:00"
+            },
+            "Qualifying": {
+                "date": "2016-06-18",
+                "time_from": "13:00+01:00",
+                "time_to": "14:00+01:00"
+            },
+            "Race": {
+                "date": "2016-06-19",
+                "time_from": "13:00+01:00",
+                "time_to": "15:00+01:00"
+            }
+        },
+        "track": {
+            "description": "The Baku Street Circuit is, as the name says, a streetcircuit in Baku, the capital of Azerbaijan. The track would initially be featured on the 2015 Formula 1-calendar, but was later moved to 2016.",
+            "history": "This track also has been designed by Hermann Tilke, who has numerous designs of Formula 1-circuits to his credit. The track has a lenght of 6.006 meters (3.73 miles), has twenty turns and is driven counter clockwise. The paddock and the straight away with start-finish, end up on the square in front of the Government building.",
+            "quote": ""
+        }
+    },
+    {
+        "event": "FORMULA 1 AUSTRIA",
+        "schedule": {
+            "Free practice 1": {
+                "date": "2016-07-01",
+                "time_from": "09:00+01:00",
+                "time_to": "10:30+01:00"
+            },
+            "Free practice 2": {
+                "date": "2016-07-01",
+                "time_from": "13:00+01:00",
+                "time_to": "14:30+01:00"
+            },
+            "Free practice 3": {
+                "date": "2016-07-02",
+                "time_from": "10:00+01:00",
+                "time_to": "11:00+01:00"
+            },
+            "Qualifying": {
+                "date": "2016-07-02",
+                "time_from": "13:00+01:00",
+                "time_to": "14:00+01:00"
+            },
+            "Race": {
+                "date": "2016-07-03",
+                "time_from": "13:00+01:00",
+                "time_to": "15:00+01:00"
+            }
+        },
+        "track": {
+            "description": "The Red Bull Ring is a motorsport circuit in Spielberg, Austria. The venue, located in the state of Styria, was formerly known as the Österreichring and A1 ring.",
+            "history": "The track was built in 1969 and was named the Österreichring. Due to safety concerns, the circuit was rebuild in 1995. Its name changed to the A1 Ring. In 2003, the venue closed its doors and was partially demolished. Eight years later, Red Bull founder Dieter Mateschitz bought the 2.6 mile long track and reopened it as the Red Bull Ring.",
+            "quote": "The Red Bull Ring is a fun circuit. I especially love the last two sectors, which consist exclusively of high speed corners."
+        }
+    },
+    {
+        "event": "FORMULA 1 GREAT BRITAIN",
+        "schedule": {
+            "Free practice 1": {
+                "date": "2016-07-08",
+                "time_from": "10:00+01:00",
+                "time_to": "11:30+01:00"
+            },
+            "Free practice 2": {
+                "date": "2016-07-08",
+                "time_from": "14:00+01:00",
+                "time_to": "15:30+01:00"
+            },
+            "Free practice 3": {
+                "date": "2016-07-09",
+                "time_from": "10:00+01:00",
+                "time_to": "11:00+01:00"
+            },
+            "Qualifying": {
+                "date": "2016-07-09",
+                "time_from": "13:00+01:00",
+                "time_to": "14:00+01:00"
+            },
+            "Race": {
+                "date": "2016-07-10",
+                "time_from": "13:00+01:00",
+                "time_to": "15:00+01:00"
+            }
+        },
+        "track": {
+            "description": "The Silverstone Circuit is located in Northhamptonshire, England. The 3.6 mile long track originated as a World War II Royal Air Force bomber station. It currently hosts the British Grand Prix.",
+            "history": "After the war, three years passed before the first motor racing event took place at Silverstone. On October 2nd, 1948, amid straw bales and ropes, the RAC Grand Prix was contested on a 3.67 mile course. Apart from several minor changes in the 70s and 80s, it was not until the 90s that the track underwent a major reconfiguration. The main aim of the alterations were to transform the ultra-fast course into a more technical circuit. In 2010, another major revamp was undertaken in which five of the original corners disappeared and were replaced by six new ones. A year later, the start/finish line was relocated to another straight. Alongside the new starting grid, a new pit complex was build, with the 'old' pits still used by several championships.",
+            "quote": "Silverstone is an awesome track to drive. It's a very fluent circuit with a sequence of fast corners. Especially the section called 'Maggotts' and 'Becketts' is fantastic. It’s not an easy track to understand at first. The weather can be a bit strange and the crosswinds can make it really challenging, sometimes requiring completely different set-up from one session to the next."
+        }
+    },
+    {
+        "event": "FORMULA 1 HUNGARY",
+        "schedule": {
+            "Free practice 1": {
+                "date": "2016-07-22",
+                "time_from": "09:00+01:00",
+                "time_to": "10:30+01:00"
+            },
+            "Free practice 2": {
+                "date": "2016-07-22",
+                "time_from": "13:00+01:00",
+                "time_to": "14:30+01:00"
+            },
+            "Free practice 3": {
+                "date": "2016-07-23",
+                "time_from": "10:00+01:00",
+                "time_to": "11:00+01:00"
+            },
+            "Qualifying": {
+                "date": "2016-07-23",
+                "time_from": "13:00+01:00",
+                "time_to": "14:00+01:00"
+            },
+            "Race": {
+                "date": "2016-07-24",
+                "time_from": "13:00+01:00",
+                "time_to": "15:00+01:00"
+            }
+        },
+        "track": {
+            "description": "The Hungaroring is a race track near Mogyoród in Hungary. The 2.7 mile long course has hosted the Hungarian Grand Prix since 1986.",
+            "history": "The Hungarian circuit was opened in 1986 and straight away hosted the first Hungarian Grand Prix. Three years later, the track was shortened. The current lay-out was established in 2003. The track was and still is known for its twisty and bumpy nature, making overtaking difficult. A good qualifying result is therefore pivotal. Jos Verstappen took his first Formula 1 podium in Hungary back in 1994. Twenty years later, his son Max will compete at the same circuit in the 2014 FIA Formula 3 European Championship.",
+            "quote": "The layout of the Hungaroring is very short, pretty narrow, not so many straights and successive fast corners. It is a challenging circuit, where you need to make optimum use of the space on the track. Miss one corner, and pay the price in the following one. So it is essential to be in a good flow. I am looking forward to the race."
+        }
+    },
+    {
+        "event": "FORMULA 1 GERMANY",
+        "schedule": {
+            "Free practice 1": {
+                "date": "2016-07-29",
+                "time_from": "09:00+01:00",
+                "time_to": "10:30+01:00"
+            },
+            "Free practice 2": {
+                "date": "2016-07-29",
+                "time_from": "13:00+01:00",
+                "time_to": "14:30+01:00"
+            },
+            "Free practice 3": {
+                "date": "2016-07-30",
+                "time_from": "10:00+01:00",
+                "time_to": "11:00+01:00"
+            },
+            "Qualifying": {
+                "date": "2016-07-30",
+                "time_from": "13:00+01:00",
+                "time_to": "14:00+01:00"
+            },
+            "Race": {
+                "date": "2016-07-31",
+                "time_from": "13:00+01:00",
+                "time_to": "15:00+01:00"
+            }
+        },
+        "track": {
+            "description": "The Hockenheimring is a racing track near the German town of Hockenheim in the state of Baden-Württenberg. The circuit was opened in 1932 and to this day remains a venue for Formula 1 Grand Prix.",
+            "history": "The original lay-out of the circuit, measured 7.5 miles in the shape of a triangle. At this stage the course was still a forest road. In these early years, Mercedes-Benz used it as a test track. In 1938, the track was shortened to 4.7 miles and was named the Kurpfalzring. Nine years later, it inherited its current and more famous name. In 1965, a new motorway, the Bundesautobahn 6, split the track in two. Therefore, the circuit was shortened to 4.24 miles. The modification also included the famous 'Motodrom' stadium section. After F1 legend Jim Clark was killed in a Formula 2 racing accident, two fast chicanes were added to the track in 1968.  Nevertheless, the new Hockenheimring remained, together with Monza, one of the fastest Formula 1 tracks and retained its lay-out for over three decades. Lowering the immense speeds and increasing the opportunities to overtake, were among the reasons to reconfigure the track to its current lay-out in 2002. The new circuit, redesigned by Hermann Tilke, was shortened to 2.8 miles and together with the Nürburgring, Hockenheim hosts the German round of the Formula 1 championship.",
+            "quote": "The first corner at Hockenheim, the Nordkurve, is nice to drive. The 'stadium' section is also good fun. The other parts of the track aren’t that spectacular but in the 'Nordkurve' and the 'stadium', you can really make a difference."
+        }
+    },
+    {
+        "event": "FORMULA 1 BELGIUM",
+        "schedule": {
+            "Free practice 1": {
+                "date": "2016-08-26",
+                "time_from": "09:00+01:00",
+                "time_to": "10:30+01:00"
+            },
+            "Free practice 2": {
+                "date": "2016-08-26",
+                "time_from": "13:00+01:00",
+                "time_to": "14:30+01:00"
+            },
+            "Free practice 3": {
+                "date": "2016-08-27",
+                "time_from": "10:00+01:00",
+                "time_to": "11:00+01:00"
+            },
+            "Qualifying": {
+                "date": "2016-08-27",
+                "time_from": "13:00+01:00",
+                "time_to": "14:00+01:00"
+            },
+            "Race": {
+                "date": "2016-08-28",
+                "time_from": "13:00+01:00",
+                "time_to": "15:00+01:00"
+            }
+        },
+        "track": {
+            "description": "The Circuit de Spa-Francorchamps is a racing circuit located in the Belgium province of Liège. The 4.352 mile track is characterized by its fast, hilly and twisty layout.",
+            "history": "The original 9.3 mile long circuit was first used in 1921. The original triangle-shaped course used public roads between Francorchamps, Malmedy and Stavelot, passing de Route de l' Eau rouge, Burnenville, Masta, Stavelot and Blanchimont along the way. Two years after WWII, the track was slightly shortened to 8.7 miles, still maintaining the characteristics of the pre-war circuit. The first major change to the lay-out was made in 1979 when the track was shortened to 4.330 miles. This configuration consisted partially of public roads. Only in between the corners 'Les Combes' and 'Blanchimont', the track was exclusively used for racing. However, at the turn of the century, Spa-Francorchamps became a permanently closed circuit as a new public road was built at the east of the track. The most recent change was the implementation of a new 'Bus Stop Chicane' and a new pit lane. Regardless of the track variations throughout the years, the track remains a favourite among both drivers and fans.",
+            "quote": "Spa-Francorchamps is a very challenging circuit. It has many fast corners and that's what I really enjoy. Of course, it's great to drive through Eau Rouge! Without a doubt, I'm very much looking forward to drive at this home track."
+        }
+    },
+    {
+        "event": "FORMULA 1 ITALY",
+        "schedule": {
+            "Free practice 1": {
+                "date": "2016-09-02",
+                "time_from": "09:00+01:00",
+                "time_to": "10:30+01:00"
+            },
+            "Free practice 2": {
+                "date": "2016-09-02",
+                "time_from": "13:00+01:00",
+                "time_to": "14:30+01:00"
+            },
+            "Free practice 3": {
+                "date": "2016-09-03",
+                "time_from": "10:00+01:00",
+                "time_to": "11:00+01:00"
+            },
+            "Qualifying": {
+                "date": "2016-09-03",
+                "time_from": "13:00+01:00",
+                "time_to": "14:00+01:00"
+            },
+            "Race": {
+                "date": "2016-09-04",
+                "time_from": "13:00+01:00",
+                "time_to": "15:00+01:00"
+            }
+        },
+        "track": {
+            "description": "The Autodromo Nazionale di Monza is a racetrack located near the city of Monza in the North of Italy. The track is known for high speed racing as its layout features several long straights and several fast corners.",
+            "history": "Since its opening in 1922, the track underwent several changes. Throughout the 1930s (’34-’39) the layout featured many 90 degree turns and chicanes to hand the Alfa Romeos a possible advantage against the might of Mercedes and Auto-Union. After the Second World War, the circuit was revamped resulting in a 3.5-mile course as well as a new 2.6-mile banked oval. The two tracks were combined to create a 6.2-mile circuit that was used in ’55, ’56, ’60 and ’61. Due to the tragic fatal accident of Wolfgang von Trips in 1961, the use of the oval ended. All future F1 races would take place on the main circuit that, apart from a few changes to the chicanes, retained its high-speed nature. Thus far, 75 Grand Prix have been driven at Monza, more than any other race track. And with the exception of 1980, the venue has hosted the Italian round of the formula 1 world Championship on annual basis.",
+            "quote": "Monza is typical of a track I love: high speed, brilliant braking zones and a unique atmosphere. To race here, with speeds up to 220 mp/h, is an amazing feeling."
+        }
+    },
+    {
+        "event": "FORMULA 1 SINGAPORE",
+        "schedule": {
+            "Free practice 1": {
+                "date": "2016-09-16",
+                "time_from": "11:00+01:00",
+                "time_to": "12:30+01:00"
+            },
+            "Free practice 2": {
+                "date": "2016-09-16",
+                "time_from": "14:30+01:00",
+                "time_to": "16:00+01:00"
+            },
+            "Free practice 3": {
+                "date": "2016-09-17",
+                "time_from": "11:00+01:00",
+                "time_to": "12:00+01:00"
+            },
+            "Qualifying": {
+                "date": "2016-09-17",
+                "time_from": "14:00+01:00",
+                "time_to": "15:00+01:00"
+            },
+            "Race": {
+                "date": "2016-09-18",
+                "time_from": "13:00+01:00",
+                "time_to": "15:00+01:00"
+            }
+        },
+        "track": {
+            "description": "The Marina Bay Circuit Park is a street circuit around the harbour of Singapore. Since 2008, the Grand Prix of Singapore is held there. In the history of the Formula 1, it is the first race to be held at night. Even though it is a street circuit, it was, as so many current Grand Prix-tracks, designed by Hermann Tilke. The circuit is 3.15 miles long.",
+            "history": "In 2009, there was commotion in the Formula 1 because Nelson Piquet Jr. declared to the FIA, that during the race in Singapore in 2008, he deliberately crashed his car. He was ordered to do this by, the then team principal, Flavio Briatore and technical director Pat Symonds of the Renault F1-team. The plan was to crash on purpose, to help his team mate Fernando Alonso get a race win, by means of forcing the safety-car into action. For this, Briatore was given a lifelong ban from the sport while Piquet got off the hook.",
+            "quote": "The Singapore Grand Prix is not only a night race, but it’s aIso held on a street circuit, which always makes it more challenging. It reminds be off Monaco because we drive so close to the barriers and it isn’t easy to overtake. Nevertheless it’s a very challenging track: long, lots of corners, braking, bumpy..."
+        }
+    },
+    {
+        "event": "FORMULA 1 MALAYSIA",
+        "schedule": {
+            "Free practice 1": {
+                "date": "2016-09-30",
+                "time_from": "03:00+01:00",
+                "time_to": "04:30+01:00"
+            },
+            "Free practice 2": {
+                "date": "2016-09-30",
+                "time_from": "07:00+01:00",
+                "time_to": "08:30+01:00"
+            },
+            "Free practice 3": {
+                "date": "2016-10-01",
+                "time_from": "07:00+01:00",
+                "time_to": "08:00+01:00"
+            },
+            "Qualifying": {
+                "date": "2016-10-01",
+                "time_from": "10:00+01:00",
+                "time_to": "11:00+01:00"
+            },
+            "Race": {
+                "date": "2016-10-02",
+                "time_from": "08:00+01:00",
+                "time_to": "10:00+01:00"
+            }
+        },
+        "track": {
+            "description": "The Sepang International Circuit is a racetrack in Malaysia, located near the country’s capital Kuala Lumpur. The 3.4-mile track was the first circuit designed by Herman Tilke, to feature on the Formula 1 calendar and is known for its technical diversity and two long straights.",
+            "history": "The circuit is pretty new and was built in the late 90's by the German Hermann Tilke. The modern, 5.540 meters long track with an average width of 16 meters, is impressive because of the large grandstands. They both have a fast straight on each side which means that the cars actually have to drive around them. The circuit is very popular with the drivers and, moreover, is very safe. The track was officially inaugurated in March 1999 and the first Malaysian Grand Prix was held in the same year. The race ended in a one-two victory for Ferrari with Eddie Irvine crossing the line first.",
+            "quote": "The Sepang circuit is a true racetrack, it is continuous, wide and fast. It suits me. It's nice to drive there. In the second sector you can really make a difference, because that is the technical part, where you need to drive with your head on. It is also important, as a result of the Malaysian climate, to take extra care of your tyres, because they take a pounding."
+        }
+    },
+    {
+        "event": "FORMULA 1 JAPAN",
+        "schedule": {
+            "Free practice 1": {
+                "date": "2016-10-07",
+                "time_from": "02:00+01:00",
+                "time_to": "03:30+01:00"
+            },
+            "Free practice 2": {
+                "date": "2016-10-07",
+                "time_from": "06:00+01:00",
+                "time_to": "07:30+01:00"
+            },
+            "Free practice 3": {
+                "date": "2016-10-08",
+                "time_from": "04:00+01:00",
+                "time_to": "05:00+01:00"
+            },
+            "Qualifying": {
+                "date": "2016-10-08",
+                "time_from": "07:00+01:00",
+                "time_to": "08:00+01:00"
+            },
+            "Race": {
+                "date": "2016-10-09",
+                "time_from": "06:00+01:00",
+                "time_to": "08:00+01:00"
+            }
+        },
+        "track": {
+            "description": "The Suzuka International Racing course is a circuit that hosts the Japanese round of the Formula 1 World Championship. The track, designed by Dutchman John 'Hans' Hugenholtz, was build in 1961 and originated as a Honda test venue. Suzuka is one of few circuits in the world to have a 'figure 8' layout.",
+            "history": "The venue, part of the 'Motopia' amusement park, hosted its first F1 Grand Prix in 1987. Ever since, multiple world championships have been decided at Suzuka due to the Japanese Grand Pix being scheduled traditionally towards the end of the season. The circuit remains a favourite among drivers because of its challenging and technically demanding lay-out.",
+            "quote": "Suzuka is a beautiful but difficult track to drive. You really have to nail the corner sequences. This circuit is extra special to me as it is the first time I drove an F1 car during a Grand Prix weekend."
+        }
+    },
+    {
+        "event": "FORMULA 1 USA",
+        "schedule": {
+            "Free practice 1": {
+                "date": "2016-10-21",
+                "time_from": "16:00+01:00",
+                "time_to": "17:30+01:00"
+            },
+            "Free practice 2": {
+                "date": "2016-10-21",
+                "time_from": "20:00+01:00",
+                "time_to": "21:30+01:00"
+            },
+            "Free practice 3": {
+                "date": "2016-10-22",
+                "time_from": "16:00+01:00",
+                "time_to": "17:00+01:00"
+            },
+            "Qualifying": {
+                "date": "2016-10-22",
+                "time_from": "19:00+01:00",
+                "time_to": "20:00+01:00"
+            },
+            "Race": {
+                "date": "2016-10-23",
+                "time_from": "20:00+01:00",
+                "time_to": "22:00+01:00"
+            }
+        },
+        "track": {
+            "description": "Circuit of the Americas is a 3.4 mile motor racing circuit in Austin, Texas. It hosts the Formula One United States Grand Prix since 2012. The circuit also hosts MotoGP and FIA World Endurance Championship rounds.",
+            "history": "The circuit was the first in the United States to be purpose-built for Formula One. The layout was conceived by promoter Tavo Hellmund and 1993 Motorcycle World Champion Kevin Schwantz. German architect and circuit designer Hermann Tilke assisted in designing the track. The track was officially opened on October 21 2012, with Mario Andretti driving a Lotus 79, the car he drove when he became the last American to win the Formula 1 title, back in 1978.",
+            "quote": "The Circuit of the Americas is not an easy track. Especially in the first sector, with its rapid succession of fast corners, it's important to find the right rhythm. However, it is a fantastic circuit to drive."
+        }
+    },
+    {
+        "event": "FORMULA 1 MEXICO",
+        "schedule": {
+            "Free practice 1": {
+                "date": "2016-10-28",
+                "time_from": "16:00+01:00",
+                "time_to": "17:30+01:00"
+            },
+            "Free practice 2": {
+                "date": "2016-10-28",
+                "time_from": "20:00+01:00",
+                "time_to": "21:30+01:00"
+            },
+            "Free practice 3": {
+                "date": "2016-10-29",
+                "time_from": "16:00+01:00",
+                "time_to": "17:00+01:00"
+            },
+            "Qualifying": {
+                "date": "2016-10-29",
+                "time_from": "19:00+01:00",
+                "time_to": "20:00+01:00"
+            },
+            "Race": {
+                "date": "2016-10-30",
+                "time_from": "19:00+01:00",
+                "time_to": "21:00+01:00"
+            }
+        },
+        "track": {
+            "description": "The Autodrómo Hermanos Rodríguez is a 2.7-mile racetrack in Mexico City. It is named after the famous Mexican racing brothers Ricardo and Pedro Rodríguez. The track is set to host the first Mexican Grand Prix since 1992.",
+            "history": "The Magdalena Mixhuca-circuit, as the track was originally known, was located in a public park and opened in 1962. In the same year, the venue organised the first Mexican Grand Prix, albeit it having a non-championship status. During qualifying, local hero Ricardo Rodríguez lost his life in a fatal accident. From 1963-1970, the circuit organised the Mexican round of the Formula 1 World Championship but the F1 paddock would not return to Mexico until 1986. On a revised 2.7-mile track, the Mexican Grand Prix was on the calendar for another seven years with Nigel Mansell winning the last race in 1992. In 2015, Formula 1 is set to return to Mexico with the Autodrómo Hermanos Rodríguez once again playing the host.",
+            "quote": "It's a circuit with a lot of fast straights but not so many corners. The first two sections are a bit too slow for my liking. You'll need a lot of traction and a car that absorbs the kerbstones well. The fast turns are definitively the best part. The stadium section is also nice, it's really cool to drive through. But it's better not to overtake there because it will give the other driver the advantage of DRS on the long straight. So it's better to stay behind and then try to overtake them on the straight."
+        }
+    },
+    {
+        "event": "FORMULA 1 BRAZIL",
+        "schedule": {
+            "Free practice 1": {
+                "date": "2016-11-11",
+                "time_from": "12:00+01:00",
+                "time_to": "13:30+01:00"
+            },
+            "Free practice 2": {
+                "date": "2016-11-11",
+                "time_from": "16:00+01:00",
+                "time_to": "17:30+01:00"
+            },
+            "Free practice 3": {
+                "date": "2016-11-12",
+                "time_from": "13:00+01:00",
+                "time_to": "14:00+01:00"
+            },
+            "Qualifying": {
+                "date": "2016-11-12",
+                "time_from": "16:00+01:00",
+                "time_to": "17:00+01:00"
+            },
+            "Race": {
+                "date": "2016-11-13",
+                "time_from": "16:00+01:00",
+                "time_to": "18:00+01:00"
+            }
+        },
+        "track": {
+            "description": "Autódromo José Carlos Pace, also known by its former name Interlagos, is a motorsport circuit located in the Brazilian city of São Paulo. The venue is most famous for hosting the Brazilian Formula 1 Grand Prix and is one of the few anti-clockwise races on the calendar.",
+            "history": "Interlagos was build between 1938 and 1940. The circuit would host its first Formula 1 Grand Prix in 1973. It was renamed in 1985 from 'Autódromo de Interlagos' to its current name, to honour the Brazilian Formula One driver José Carlos Pace, who died in a plane crash in 1977. The present design of the track dates back to 1990, when the original circuit was shortened from 4.8 miles to only 2.7 miles. Despite the major revamp, the circuit still kept some of its key characteristics such as the many bumps in the tarmac, the elevation changes and several high-speed turns.",
+            "quote": "Interlagos is, due to the difference in height, very fun to drive. Because of the great camber, it makes braking a real challenge. The curbstones are much harder now, because some have been changed. Besides, the track is also hard on your tyres which makes it quite exciting in some corners."
+        }
+    },
+    {
+        "event": "FORMULA 1 ABU DHABI",
+        "schedule": {
+            "Free practice 1": {
+                "date": "2016-11-25",
+                "time_from": "09:00+01:00",
+                "time_to": "10:30+01:00"
+            },
+            "Free practice 2": {
+                "date": "2016-11-25",
+                "time_from": "13:00+01:00",
+                "time_to": "14:30+01:00"
+            },
+            "Free practice 3": {
+                "date": "2016-11-26",
+                "time_from": "10:00+01:00",
+                "time_to": "11:00+01:00"
+            },
+            "Qualifying": {
+                "date": "2016-11-26",
+                "time_from": "13:00+01:00",
+                "time_to": "14:00+01:00"
+            },
+            "Race": {
+                "date": "2016-11-27",
+                "time_from": "13:00+01:00",
+                "time_to": "15:00+01:00"
+            }
+        },
+        "track": {
+            "description": "The Yas Marina Circuit is a race track that hosts the Abu Dhabi Grand Prix. The circuit was designed by Hermann Tilke and is situated on Yas Island, about 30 minutes from the capital of the UAE, Abu Dhabi. One of the Abu Dhabi Grand Prix’ trademarks is that it is the first ever day-night Grand Prix.",
+            "history": "Yas Marina is the second Formula One track in the Middle East, with the first being in Bahrain. It is the most expensive circuit ever build costing an approximate 1 billion US dollars. The costs include the creation of the Yas Island, the building of the nearby hotel and the installation of the lights. A two day GP2 Asia Series test was held to officially open the circuit, a week before the first ever Abu Dhabi Grand Prix, which was held on November 1 2009 and won by Sebastian Vettel.",
+            "quote": "Apart from the many long straights, the circuit has several beautiful corners. The atmosphere is special, being so close to the harbour and to have a twilight race, starting during the day and finishing in the evening!"
+        }
+    }
+]
